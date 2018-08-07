@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumEasy Suit" duration-ms="57516" started-at="2018-07-31T17:10:19Z" finished-at="2018-07-31T17:11:17Z">
+    <groups>
+    </groups>
+    <test name="SeleniumEasy Test" duration-ms="57516" started-at="2018-07-31T17:10:19Z" finished-at="2018-07-31T17:11:17Z">
+      <class name="SeleniumEasyAutomationTest.SimpleFormDemo">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:SeleniumEasyAutomationTest.SimpleFormDemo@46daef40]" name="SetUp" is-config="true" duration-ms="41234" started-at="2018-07-31T17:10:19Z" finished-at="2018-07-31T17:11:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.seleniumeasy.com/test/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="JQuerySelectdropdownWithCategory()[pri:0, instance:SeleniumEasyAutomationTest.SimpleFormDemo@46daef40]" name="JQuerySelectdropdownWithCategory" duration-ms="12364" started-at="2018-07-31T17:11:00Z" finished-at="2018-07-31T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQuerySelectdropdownWithCategory -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:SeleniumEasyAutomationTest.SimpleFormDemo@46daef40]" name="TearDown" is-config="true" duration-ms="3890" started-at="2018-07-31T17:11:13Z" finished-at="2018-07-31T17:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- SeleniumEasyAutomationTest.SimpleFormDemo -->
+    </test> <!-- SeleniumEasy Test -->
+  </suite> <!-- SeleniumEasy Suit -->
+</testng-results>

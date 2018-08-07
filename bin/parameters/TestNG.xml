@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite"  >
+
+<test name="Facebook Test">
+<parameter name="url" value="https://www.facebook.com/" />
+<parameter name="emailid" value="geetb33@gmail.com" />
+
+<classes>
+<class name="parameters.ParameterWithTestNGXML">
+</class>
+
+</classes>
+</test>
+
+</suite>
